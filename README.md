@@ -13,3 +13,5 @@
 	- Template is <FIRST LAST. CITY, COUNTRY>
 
 4. Alternatively you can link to an outside webpage.
+
+5. Push your changes back to `master-branch` and you'll be added.

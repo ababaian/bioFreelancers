@@ -22,3 +22,4 @@
 # NOTES FOR YOU
 - Be creative, you want to make yourself stand out
 - Use of images is encouraged! Just please host them outside this repo to keep repo size small.
+- Want to chat about being a `bioFreelancer`? Join: biofreelancers.slack.com
