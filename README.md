@@ -2,7 +2,6 @@
 
 - [Artem Babaian. Vancouver, Canada](bio/ababaian.md)
 
-
 ### Adding your name to the list
 
 1. Fork this reposistory. Make edits locally and then push to the main list.
@@ -13,4 +12,4 @@
 	- Add your name under `Freelance Bioinformaticians` in alphabetical order
 	- Template is <FIRST LAST. CITY, COUNTRY>
 
-4. Alternatively you can link to an outside webpage
+4. Alternatively you can link to an outside webpage.
