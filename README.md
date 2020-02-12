@@ -17,4 +17,4 @@
 
 5. Push your changes back to `master-branch` and you'll be added.
 
-[**bioFreelancer Slack**](biofreelancers.slack.com)
+[**bioFreelancer Slack**](https://biofreelancers.slack.com)
