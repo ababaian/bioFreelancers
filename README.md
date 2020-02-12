@@ -1,6 +1,7 @@
 ## Freelance Bioinformaticians
 
 - [Artem Babaian. Vancouver, Canada](bio/ababaian.md)
+- [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
 
 ### Adding your name to the list
 
