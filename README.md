@@ -16,3 +16,5 @@
 4. Alternatively you can link to an outside webpage.
 
 5. Push your changes back to `master-branch` and you'll be added.
+
+[**bioFreelancer Slack**](biofreelancers.slack.com)
