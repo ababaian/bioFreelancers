@@ -9,14 +9,19 @@ I have worked as a bioinformatics scientist in different capacities, including f
 Open for most kinds of bioinformatics projects, from more routine processing to data integration and predictive models using machine learning.
 
 ## Select publications
+
 [A Primer on Deep Learning in Genomics, Nature Genetics](https://doi.org/10.1038/s41588-018-0295-5)
+
 [Visualization and analysis of gene expression in tissue sections by spatial transcriptomics, Science](https://doi.org/10.1126/science.aaf2403)
+
 [Assessing the consistency of public human tissue RNA-seq data sets, Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbv017)
+
 [Resolution of cell fate decisions revealed by single-cell gene expression analysis from zygote to blastocyst, Developmental Cell](https://doi.org/10.1016/j.devcel.2010.02.012)
+
 [Integration of external signaling pathways with the core transcriptional network in embryonic stem cells, Cell](https://doi.org/10.1016/j.cell.2008.04.043)
 
 ## Links
-- [blog](Your External site)
+- [blog](https://followthedata.wordpress.com/)
 - [ORC-ID page](https://orcid.org/0000-0003-0839-2451)
 - [github](https://github.com/hussius)
 - [bioStars](https://www.biostars.org/u/91/)
