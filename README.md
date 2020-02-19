@@ -4,6 +4,10 @@
 - [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
 - [Mikael Huss, Stockholm, Sweden](bio/mhuss.md)
 
+## Who we are
+
+**bioFreelancers** is a public directory of freelance bioinformaticians available for hire. Whether you need a standard analysis done quickly or are looking for development on a short- to medium-term project, we have you covered. All listed freelancers are independent.
+
 ### Adding your name to the list
 
 1. Fork this reposistory. Make edits locally and then push to the main list.
@@ -18,4 +22,4 @@
 
 5. Push your changes back to `master-branch` and you'll be added.
 
-[**bioFreelancer Slack**](https://biofreelancers.slack.com)
+[**Then join the bioFreelancer Slack**](https://biofreelancers.slack.com)
