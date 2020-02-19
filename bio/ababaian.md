@@ -1,7 +1,7 @@
 # Artem Babaian, Ph.D.
 
 - Computational Biologist. Ph.D. in Medical Genetics, University of British Columbia.
-- Contact: artem [AT]rRNA.ca
+- Contact: artem[AT]rRNA.ca
 
 
 Bioinformatics is not one-size-fits all. First and foremost I am a biologist, which means I can understand your biological question and help you find and implement the correct computational solution suited to your needs.
