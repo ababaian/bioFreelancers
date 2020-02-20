@@ -22,4 +22,4 @@
 
 5. Push your changes back to `master-branch` and you'll be added.
 
-[**Then join the bioFreelancer Slack**](https://biofreelancers.slack.com)
+[**Then join the bioFreelancer Slack**](https://join.slack.com/t/biofreelancers/shared_invite/enQtOTQzODc1Mzk1NTA0LTE3NGJkYTRmMGUxYzViZGM2NjQxNjAyZWRlYmQ3OWI5ZjUzMmNkZGNmOGM5NzU5ZTdlYTE4ZGE0MjQ3MjVlYWI)
