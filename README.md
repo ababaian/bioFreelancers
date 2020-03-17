@@ -3,6 +3,7 @@
 - [Artem Babaian. Vancouver, Canada](bio/ababaian.md)
 - [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
 - [Mikael Huss, Stockholm, Sweden](bio/mhuss.md)
+- [Tayab Soomro. Saskatoon, Canada](bio/tsoomro.md)
 
 ## Who we are
 
