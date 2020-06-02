@@ -40,13 +40,13 @@ Key areas of expertise:
 
 [VariCarta: A Comprehensive Database of Harmonized Genomic Variants Found in Autism Spectrum Disorder Sequencing Studies. Autism Res. 12, 1728–1736 (2019)](https://doi.org/10.1002/aur.2236) **Belmadani, M.**, Jacobson, M., Holmes, N., Phan, M., Nguyen, T., Pavlidis, P. & Rogic, S. 
 
-[Whole genome sequencing and variant discovery in the ASPIRE autism spectrum disorder cohort. Clin. Genet. (2019) doi:10.1111/cge.13556](dx.doi.org/10.1111/cge.13556) Callaghan, D. B., Rogic, S., Tan, P. P. C., Calli, K., Qiao, Y., Baldwin, R., Jacobson, M., **Belmadani, M.**, Holmes, N., Yu, C., Li, Y., Li, Y., Kurtzke, F.-E., Kuzeljevic, B., Yu, A., Hudson, M., McNaughton, A. J. M., Xu, Y., Dionne-Laporte, A., Girard, S., Liang, P., Separovic, E. R., Liu, X., Rouleau, G., Pavlidis, P. & Lewis, M. E. S. 
+[Whole genome sequencing and variant discovery in the ASPIRE autism spectrum disorder cohort. Clin. Genet. (2019) doi:10.1111/cge.13556](https://dx.doi.org/10.1111/cge.13556) Callaghan, D. B., Rogic, S., Tan, P. P. C., Calli, K., Qiao, Y., Baldwin, R., Jacobson, M., **Belmadani, M.**, Holmes, N., Yu, C., Li, Y., Li, Y., Kurtzke, F.-E., Kuzeljevic, B., Yu, A., Hudson, M., McNaughton, A. J. M., Xu, Y., Dionne-Laporte, A., Girard, S., Liang, P., Separovic, E. R., Liu, X., Rouleau, G., Pavlidis, P. & Lewis, M. E. S. 
 
 [Assessing transcriptome quality in patch-seq datasets. Front. Mol. Neurosci. 11, 363 (2018)](https://dx.doi.org/10.3389%2Ffnmol.2018.00363) Tripathy S., Toker L., Bomkamp C., Mancarci O., **Belmadani M.** & Pavlidis P. 
 
-[MotifGP: Using multi-objective evolutionary computing for mining network expressions in DNA sequences. in 2016 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 1–6 (2016) doi:10.1109/CIBCB.2016.7758133](dx.doi.org/10.1109/CIBCB.2016.7758133) **Belmadani M.** & Turcotte M. 
+[MotifGP: Using multi-objective evolutionary computing for mining network expressions in DNA sequences. in 2016 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) 1–6 (2016) doi:10.1109/CIBCB.2016.7758133](https://dx.doi.org/10.1109/CIBCB.2016.7758133) **Belmadani M.** & Turcotte M. 
 
-[A comprehensive analysis of 3’ end sequencing data sets reveals novel polyadenylation signals and the repressive role of heterogeneous ribonucleoprotein C on cleavage and polyadenylation. Genome Res. (2016) doi:10.1101/gr.202432.115](dx.doi.org/10.1101/gr.202432.115) Gruber A. J., Schmidt R., Gruber A. R., Martin G., Ghosh S., **Belmadani M.**, Keller W. & Zavolan M. 
+[A comprehensive analysis of 3’ end sequencing data sets reveals novel polyadenylation signals and the repressive role of heterogeneous ribonucleoprotein C on cleavage and polyadenylation. Genome Res. (2016) doi:10.1101/gr.202432.115](https://dx.doi.org/10.1101/gr.202432.115) Gruber A. J., Schmidt R., Gruber A. R., Martin G., Ghosh S., **Belmadani M.**, Keller W. & Zavolan M. 
 
 ### Links
 
