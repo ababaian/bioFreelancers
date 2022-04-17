@@ -1,30 +1,16 @@
 # Tayab Soomro
 
-- Bioinformatician at Agriculture and Agri-Food Canada
-- Contact: tayab.soomro@usask.ca
+## Current
+- Computational Biologist @ [NRGene Canada Inc.](https://nrgene.com/)
+- M.Sc. Agriculture @ [Institute of Comparitive Genomics](https://icgenomics.ca/), Dalhousie University
 
-## Expertise
-
-With having expertise in drylab / data science / computer science, I also have
-hands on experience in molecular __biology__, __microbiology__, and __plant science__.
-This is especially important because gives me a superpower of inferring important
-biology from mountains of unimportant data.
-
-I am an __all-rounder__ bioinformatician and interested to explore projects in
-all realms of science. Having said that, here are some of the areas I have
-expertise in:
-
-- Genome assembly
-- Genome annotation
-- Bioinformatics pipeline and workflow development
-- Data analysis and visualization
-- Website and Web Application Development
+## Interests
+Genomics • Population Genetics • Genome & Software Engineering • Machine Learning
 
 
 ## Services
-
 I am happy to entertain any and all projects including but not limited to software
-development, NGS/Illumina/ONT genomic/RNA-Seq/Proteomic data analysis, Visualization
+development, NGS/Illumina/ONT genomic/RNA-Seq/Proteomic data analysis, visualization
 and interpretation.
 
 
