@@ -1,6 +1,7 @@
 ## Freelance Bioinformaticians
 
 - [Artem Babaian. Vancouver, Canada](bio/ababaian.md)
+- [Christian Brueffer. Lund, Sweden](https://brueffer.io)
 - [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
 - [Mikael Huss, Stockholm, Sweden](bio/mhuss.md)
 - [Tayab Soomro. Saskatoon, Canada](bio/tsoomro.md)
