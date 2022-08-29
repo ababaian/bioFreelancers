@@ -1,6 +1,7 @@
 ## Freelance Bioinformaticians
 
 - [Artem Babaian. Vancouver, Canada](bio/ababaian.md)
+- [Christian Brueffer. Lund, Sweden](https://brueffer.io)
 - [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
 - [Mikael Huss, Stockholm, Sweden](bio/mhuss.md)
 - [Tayab Soomro. Saskatoon, Canada](bio/tsoomro.md)
@@ -12,7 +13,7 @@
 
 ### Adding your name to the list
 
-1. Fork this reposistory. Make edits locally and then push to the main list.
+1. Fork this repository. Make edits locally and then push to the main list.
 
 2. Copy the `bio-template.md` file to `bio/<firstletter-lastname.md>`
 
