@@ -4,6 +4,7 @@
 - [Christian Brueffer. Lund, Sweden](https://brueffer.io)
 - [Kevin Blighe, London, UK](https://www.biostars.org/u/41557/)
 - [Mikael Huss, Stockholm, Sweden](bio/mhuss.md)
+- [Kevin Keys, Oakland, CA, USA](https://kevinkeys.net)
 - [Tayab Soomro. Saskatoon, Canada](bio/tsoomro.md)
 - [Manuel Belmadani, Ottawa, Canada](bio/mbelmadani.md)
 
